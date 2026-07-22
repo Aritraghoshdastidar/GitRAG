@@ -124,3 +124,17 @@ Together they present both the engineering and research perspectives of the proj
 - Incremental repository indexing
 - Distributed retrieval
 - Enterprise-scale repository support
+
+ Indexing:<img width="2471" height="1263" alt="Screenshot 2026-07-22 140211" src="https://github.com/user-attachments/assets/b32f7380-285b-43c5-a69e-d54c9e0726a1" />
+ Repo Context Questioning:<img width="2441" height="1282" alt="Screenshot 2026-07-22 140731" src="https://github.com/user-attachments/assets/89c3ef60-a35f-4f8c-bcc3-5eff8a6f28f7" />
+
+ Debugging And Reasoning: <img width="2442" height="1256" alt="Screenshot 2026-07-22 140238" src="https://github.com/user-attachments/assets/5b25d13b-e247-49f4-8d2c-b118db7534dd" />
+ <img width="2441" height="1277" alt="Screenshot 2026-07-22 140300" src="https://github.com/user-attachments/assets/1b3e52cc-cffa-4c6f-9a78-238935ea35c7" />
+ <img width="2433" height="1281" alt="Screenshot 2026-07-22 140311" src="https://github.com/user-attachments/assets/61fa9f1d-eab7-4270-a410-41924fe879d2" />
+System Evaluation:
+<img width="2486" height="1277" alt="Screenshot 2026-07-22 140332" src="https://github.com/user-attachments/assets/02c63b6b-77c9-418b-b9d6-20c91d4591fd" />
+
+
+
+
+ 
