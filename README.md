@@ -12,7 +12,7 @@ This repository contains **two complementary notebook implementations**, each fo
 GitRAG/
 │
 ├── GitRag_v2.ipynb          # Next-generation production-oriented implementation
-├── GitRag (1).ipynb         # Original research & evaluation implementation
+├── GitRag_v1.ipynb         # Original research & evaluation implementation
 ├── README.md
 └── ...
 ```
@@ -49,7 +49,7 @@ The latest and most complete implementation of GitRAG, redesigned with a product
 
 ---
 
-# GitRag (1).ipynb (Original)
+# GitRag_v1.ipynb (Original)
 
 The original GitRAG implementation developed during the project's first phase.
 
@@ -82,12 +82,12 @@ While the architecture is simpler, it includes a more comprehensive evaluation w
 | Notebook | Primary Purpose |
 |-----------|-----------------|
 | **GitRag_v2.ipynb** | Production-grade implementation with improved architecture, parsing, retrieval, and agent workflow |
-| **GitRag (1).ipynb** | Research, evaluation, benchmarking, visualizations, and experimental analysis |
+| **GitRag_v1.ipynb** | Research, evaluation, benchmarking, visualizations, and experimental analysis |
 
 The two notebooks are intentionally kept together because they complement each other:
 
 - **GitRag_v2** demonstrates how the system would be implemented in a production-oriented setting.
-- **GitRag (1)** provides richer evaluation metrics, benchmarking utilities, and visualizations that are valuable for analyzing system performance.
+- **GitRag_v1** provides richer evaluation metrics, benchmarking utilities, and visualizations that are valuable for analyzing system performance.
 
 Together they present both the engineering and research perspectives of the project.
 
